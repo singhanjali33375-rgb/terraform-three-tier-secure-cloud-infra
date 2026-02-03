@@ -131,7 +131,18 @@ VPC ID
 DB endpoint
 Project Architecture (3-Tier)
 Internet
-   |
+✅ FINAL FILE LIST
+provider.tf
+backend.tf
+variables.tf
+terraform.tfvars
+outputs.tf
+.gitignore
+network.tf
+security.tf
+web.tf
+database.tf
+README.md
 Load Balancer (Public Subnet)
    |
 Web Tier (Auto Scaling)
